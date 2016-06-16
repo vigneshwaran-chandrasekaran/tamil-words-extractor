@@ -29,7 +29,7 @@
                <form class="form-horizontal" action="index.php" method="POST">
                   <div class="form-group">
                      <label for="url">Enter a Webpage URL</label>
-                     <input type="url" class="form-control" name="url" id="url" placeholder="http://example.com/" autofocus>
+                     <input type="url" class="form-control" name="url" id="url" placeholder="http://www.tn.gov.in/ta/" autofocus>
                   </div>
                   <button type="submit" class="btn btn-success">Submit</button>
                </form>
